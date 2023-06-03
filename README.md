@@ -1,5 +1,5 @@
 ##My Task1 for lesson three
-Here's the link to my live site:
+Here's the link to my live site: https://kenpachi2.github.io/Lesson_3_Task_1_Umeadi-Ifeanyi/
 ##How to run/test this project
 1.ensure you have git installed properly on your machine
 2.ensure you have node js installed in your machine
